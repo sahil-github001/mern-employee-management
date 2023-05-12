@@ -14,7 +14,7 @@ Before you can use this app, you'll need to have the following installed on your
 
 To install and run the app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `https://github.com/sahil-github001/mern-employee-management.git`
 2. Navigate to the client directory: `cd your-repo/client`
 3. Install the client dependencies: `npm install`
 4. Navigate to the server directory: `cd ../server`
