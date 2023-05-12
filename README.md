@@ -1,4 +1,4 @@
-# mern-employee-management
+# Employee Management App
 
 This is a simple MERN (MongoDB, Express, React, Node.js) stack app for managing employee details. You can add, edit, and delete employee details, including their name, age, designation, and salary. All data is stored in a MongoDB database.
 
